@@ -1,0 +1,26 @@
+5,nuj,2020-10-01
+2,da,2024-02-02
+6,habdadbwau,2024-01-29
+1,TORT TERMIN ,2024-01-14
+3,doilea5,2024-01-21
+3,primu,2024-01-20
+10,dkjnwkdjawndk,2024-01-15
+4, r23wefds,2024-07-07
+1,Task 19,2024-01-14
+8,Task 2,2024-01-22
+1,papapaapa,2024-01-15
+10,Task 20,2024-02-02
+5,nu stiu,2025-01-01
+10,Task 10,2024-01-29
+1,nu,2024-04-04
+7,pizza,2024-01-15
+6,Task description 6,2024-03-10
+5,Task description 5,2024-03-01
+4,Task description 4,2024-02-15
+2,Task description 2,2024-01-25
+1,Task description 1,2024-01-15
+2,Task description 2,2024-01-25
+2,pppp,2024-02-01
+2,Task 1,2024-01-15
+1,Task 3,2024-01-10
+2,in padure,2024-02-02
